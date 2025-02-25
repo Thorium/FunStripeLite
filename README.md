@@ -2,6 +2,8 @@
 
 A lightweight F# library to connect to the Stripe API. Targets .NET Standard 2.0 and .NET Standard 2.1.
 
+New location: https://github.com/simontreanor/FunStripe/tree/master/src/FunStripeLite
+
 ## Latest updates
 
 2025-02-24: FunStripeLite will be maintained as a subproject of [FunStripe](https://github.com/simontreanor/FunStripe) from now on.
